@@ -1,4 +1,4 @@
-![Consumer Behaviour Analytics Banner](images/banner.png)
+![Consumer Behaviour Analytics Banner](images/banner.png.png)
 # Consumer Behaviour & Spending Pattern Analytics
 
 ## Executive Summary
